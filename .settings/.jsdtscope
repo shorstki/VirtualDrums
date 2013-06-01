@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="build/debug/native-ios"/>
+	<classpathentry excluding="api/|native/|debugging/|browser/|native/timestep/|browser/bootstrap/" kind="src" path="sdk/gc"/>
+	<classpathentry kind="src" path="sdk/gc/api"/>
+	<classpathentry excluding="bootstrap/" kind="src" path="sdk/gc/browser"/>
+	<classpathentry kind="src" path="sdk/gc/browser/bootstrap"/>
+	<classpathentry kind="src" path="sdk/gc/debugging"/>
+	<classpathentry excluding="timestep/" kind="src" path="sdk/gc/native"/>
+	<classpathentry kind="src" path="sdk/gc/native/timestep"/>
+	<classpathentry excluding="net/env/browser/|net/protocols/|util/|lib/|preprocessors/|net/csp/|math/|math/geom/|net/env/node/csp/|net/|std/|string/|math2D/|net/env/node/" kind="src" path="sdk/jsio"/>
+	<classpathentry kind="src" path="sdk/jsio/lib"/>
+	<classpathentry excluding="geom/" kind="src" path="sdk/jsio/math"/>
+	<classpathentry kind="src" path="sdk/jsio/math/geom"/>
+	<classpathentry kind="src" path="sdk/jsio/math2D"/>
+	<classpathentry excluding="env/browser/|protocols/|csp/|env/node/csp/|env/node/" kind="src" path="sdk/jsio/net"/>
+	<classpathentry kind="src" path="sdk/jsio/net/csp"/>
+	<classpathentry kind="src" path="sdk/jsio/net/env/browser"/>
+	<classpathentry excluding="csp/" kind="src" path="sdk/jsio/net/env/node"/>
+	<classpathentry kind="src" path="sdk/jsio/net/env/node/csp"/>
+	<classpathentry kind="src" path="sdk/jsio/net/protocols"/>
+	<classpathentry kind="src" path="sdk/jsio/preprocessors"/>
+	<classpathentry kind="src" path="sdk/jsio/std"/>
+	<classpathentry kind="src" path="sdk/jsio/string"/>
+	<classpathentry kind="src" path="sdk/jsio/util"/>
+	<classpathentry kind="src" path="sdk/menus/constants"/>
+	<classpathentry excluding="components/" kind="src" path="sdk/menus/views"/>
+	<classpathentry kind="src" path="sdk/menus/views/components"/>
+	<classpathentry excluding="particle/|models/|views/" kind="src" path="sdk/shooter"/>
+	<classpathentry kind="src" path="sdk/shooter/models"/>
+	<classpathentry kind="src" path="sdk/shooter/particle"/>
+	<classpathentry kind="src" path="sdk/shooter/views"/>
+	<classpathentry excluding="models/persistence/|models/|jscolor/" kind="src" path="sdk/squill"/>
+	<classpathentry kind="src" path="sdk/squill/jscolor"/>
+	<classpathentry excluding="persistence/" kind="src" path="sdk/squill/models"/>
+	<classpathentry kind="src" path="sdk/squill/models/persistence"/>
+	<classpathentry excluding="animate/|ui/layout/|ui/backend/canvas/util/|event/|ui/backend/|ui/widget/|ui/backend/dom/|ui/resource/|ui/backend/debug/|ui/debug/|ui/backend/sound/|ui/backend/canvas/|platforms/browser/|platforms/native/|ui/|event/input/" kind="src" path="sdk/timestep"/>
+	<classpathentry kind="src" path="sdk/timestep/animate"/>
+	<classpathentry excluding="input/" kind="src" path="sdk/timestep/event"/>
+	<classpathentry kind="src" path="sdk/timestep/event/input"/>
+	<classpathentry kind="src" path="sdk/timestep/platforms/browser"/>
+	<classpathentry kind="src" path="sdk/timestep/platforms/native"/>
+	<classpathentry excluding="layout/|backend/canvas/util/|backend/|widget/|backend/dom/|resource/|backend/debug/|debug/|backend/sound/|backend/canvas/" kind="src" path="sdk/timestep/ui"/>
+	<classpathentry excluding="canvas/util/|dom/|debug/|sound/|canvas/" kind="src" path="sdk/timestep/ui/backend"/>
+	<classpathentry excluding="util/" kind="src" path="sdk/timestep/ui/backend/canvas"/>
+	<classpathentry kind="src" path="sdk/timestep/ui/backend/canvas/util"/>
+	<classpathentry kind="src" path="sdk/timestep/ui/backend/debug"/>
+	<classpathentry kind="src" path="sdk/timestep/ui/backend/dom"/>
+	<classpathentry kind="src" path="sdk/timestep/ui/backend/sound"/>
+	<classpathentry kind="src" path="sdk/timestep/ui/debug"/>
+	<classpathentry kind="src" path="sdk/timestep/ui/layout"/>
+	<classpathentry kind="src" path="sdk/timestep/ui/resource"/>
+	<classpathentry kind="src" path="sdk/timestep/ui/widget"/>
+	<classpathentry excluding="instruments/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/instruments"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

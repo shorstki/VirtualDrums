@@ -1,0 +1,58 @@
+CACHE MANIFEST
+
+#046edbd6b00f4c03ace7cdb12f9cd19d version undefined
+
+CACHE:
+resources/icons/android36.png
+resources/icons/android48.png
+resources/icons/android72.png
+resources/icons/android96.png
+resources/icons/icon512.png
+resources/icons/ios114.png
+resources/icons/ios144.png
+resources/icons/ios57.png
+resources/icons/ios72.png
+resources/sounds/crash01.mp3
+resources/sounds/crash02.mp3
+resources/sounds/crash03.mp3
+resources/sounds/crash04.mp3
+resources/sounds/crash05.mp3
+resources/sounds/hh close01.mp3
+resources/sounds/hh close02.mp3
+resources/sounds/hh open01.mp3
+resources/sounds/hh open02.mp3
+resources/sounds/hhopen02.mp3
+resources/sounds/hi tom01.mp3
+resources/sounds/hi tom02.mp3
+resources/sounds/low tom01.mp3
+resources/sounds/low tom02.mp3
+resources/sounds/mid tom01.mp3
+resources/sounds/mid tom02.mp3
+resources/sounds/ride01.mp3
+resources/sounds/ride02.mp3
+resources/sounds/ride03.mp3
+resources/sounds/ride04.mp3
+resources/sounds/snare01.mp3
+resources/sounds/snare02.mp3
+resources/sounds/snare03.mp3
+resources/sounds/snare04.mp3
+resources/splash/landscape1536.png
+resources/splash/landscape768.png
+resources/splash/portrait1024.png
+resources/splash/portrait1136.png
+resources/splash/portrait2048.png
+resources/splash/portrait480.png
+resources/splash/portrait960.png
+resources/splash/README.txt
+spritesheets/resources/images/instruments-b�ben0.png
+spritesheets/resources/images/instruments0.png
+spritesheets/resources/images/instruments-hi0.png
+spritesheets/resources/images0.png
+spritesheets/spritesheetSizeMap.json
+index.html
+native-ios.js
+
+FALLBACK:
+
+NETWORK:
+*
